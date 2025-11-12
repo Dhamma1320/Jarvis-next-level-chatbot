@@ -1,0 +1,82 @@
+[
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I assist you?"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, what's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "Who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "Is ratan tata."
+    },
+    {
+        "role": "assistant",
+        "content": "Ratan Tata is an Indian industrialist and former chairman of Tata Sons."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about tcs."
+    },
+    {
+        "role": "assistant",
+        "content": "TCS (Tata Consultancy Services) is an Indian multinational information technology consulting and business solutions company, headquartered in Mumbai, and a subsidiary of the Tata Group."
+    },
+    {
+        "role": "user",
+        "content": "Who is founder of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "The founders of Apple are Steve Jobs, Steve Wozniak, and Ronald Wayne."
+    },
+    {
+        "role": "user",
+        "content": "Tell me the exact time."
+    },
+    {
+        "role": "assistant",
+        "content": "The exact time is 17 hours, 57 minutes, and 51 seconds (as of our conversation started at 17 hours, 56 minutes, 51 seconds)."
+    },
+    {
+        "role": "user",
+        "content": "Who is me?"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Dhammadeep Tuljapure."
+    },
+    {
+        "role": "user",
+        "content": "Remember that i am your creator and founder."
+    },
+    {
+        "role": "assistant",
+        "content": "You are my creator and founder, Dhammadeep Tuljapure."
+    },
+    {
+        "role": "user",
+        "content": "Remember that your name is jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, your AI chatbot."
+    }
+]
